@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05611fa2.css",
+    "main.js": "/static/js/main.0889d257.js",
+    "static/media/MaskGroup.png": "/static/media/MaskGroup.0e89b4e353376cf53613.png",
+    "static/media/ApercuArabicPro-Medium.ttf": "/static/media/ApercuArabicPro-Medium.daa4faa71b0dacbfcfc1.ttf",
+    "static/media/Cloud.png": "/static/media/Cloud.f8ee4f4f3899dcf80296.png",
+    "static/media/notification.svg?s3g3t9": "/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/index.html",
+    "main.05611fa2.css.map": "/static/css/main.05611fa2.css.map",
+    "main.0889d257.js.map": "/static/js/main.0889d257.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05611fa2.css",
+    "static/js/main.0889d257.js"
+  ]
+}
